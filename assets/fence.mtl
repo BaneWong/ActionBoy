@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.8.1, Sat Feb 18 15:59:29 PST 2012
+newmtl white
+Kd 0.96 0.96 0.96
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Default_Texture
+Kd 1 1 1
+Ks 0 0 0
+Ka 0 0 0
+illum 1

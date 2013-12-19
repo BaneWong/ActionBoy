@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.8.1, Fri May 18 21:18:43 PDT 2012
+newmtl canopy
+Kd 0.05 0.74 0.09
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl trunk
+Kd 0.71 0.36 0.22
+Ks 0 0 0
+Ka 0 0 0
+illum 1

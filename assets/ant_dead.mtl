@@ -1,0 +1,16 @@
+#Produced by Art of Illusion 2.8.1, Sun Apr 03 15:21:10 PDT 2011
+newmtl legs
+Kd 0.26398 0.28 0.2184
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl body
+Kd 0.03 0.03 0.03
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl red
+Kd 1 0.14 0.14
+Ks 0 0 0
+Ka 0 0 0
+illum 1

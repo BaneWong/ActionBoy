@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.8.1, Sun Mar 04 14:56:34 PST 2012
+newmtl trunk
+Kd 0.75 0.64 0.39
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl leaf
+Kd 0.9 0.05 0.01
+Ks 0 0 0
+Ka 0 0 0
+illum 1

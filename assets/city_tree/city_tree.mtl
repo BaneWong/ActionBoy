@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.8.1, Sat May 12 15:17:10 PDT 2012
+newmtl Green
+Kd 0.1 0.8 0.2
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Trunk
+Kd 0.47 0.3 0.24
+Ks 0 0 0
+Ka 0 0 0
+illum 1

@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.8.1, Sat Mar 12 13:02:38 PST 2011
+newmtl glass
+Kd 0.2813 0.2581 0.1943
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Metal
+Kd 0.42 0.41 0.39
+Ks 0 0 0
+Ka 0 0 0
+illum 1

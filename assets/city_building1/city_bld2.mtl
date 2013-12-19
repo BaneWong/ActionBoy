@@ -1,0 +1,16 @@
+#Produced by Art of Illusion 2.8.1, Sat May 12 16:00:23 PDT 2012
+newmtl box
+Kd 0.36 0.28 0.25
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl window
+Kd 0.13 0.11 0.11
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl bld
+Kd 0.63 0.25 0.2
+Ks 0 0 0
+Ka 0 0 0
+illum 1

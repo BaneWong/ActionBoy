@@ -1,0 +1,7 @@
+#Produced by Art of Illusion 2.8.1, Sun May 15 15:18:51 PDT 2011
+newmtl texture
+Kd 1 1 1
+map_Kd test1.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1

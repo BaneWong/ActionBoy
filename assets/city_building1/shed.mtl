@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.8.1, Sat May 12 20:53:51 PDT 2012
+newmtl shed
+Kd 0.56 0.39 0.19
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl roof
+Kd 0.48 0.22 0.06
+Ks 0 0 0
+Ka 0 0 0
+illum 1

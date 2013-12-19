@@ -1,0 +1,31 @@
+#Produced by Art of Illusion 2.8.1, Sun Feb 05 09:22:30 PST 2012
+newmtl roof
+Kd 0.51 0.33 0.26
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl lightwood
+Kd 0.93 0.75 0.38
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl door
+Kd 0.99 0.39 0.23
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl wood
+Kd 0.67 0.38 0.09
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl floor
+Kd 0.46 0.28 0.19
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl glass
+Kd 0.29 0.29 0.34
+Ks 0 0 0
+Ka 0 0 0
+illum 1

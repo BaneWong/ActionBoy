@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.8.1, Sun May 13 14:30:56 PDT 2012
+newmtl white
+Kd 1 1 1
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl gost
+Kd 0.91 0.91 0.21
+Ks 0 0 0
+Ka 0 0 0
+illum 1

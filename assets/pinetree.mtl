@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.8.1, Sat Feb 11 21:40:34 PST 2012
+newmtl greed
+Kd 0.19 0.67 0.17
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl bark
+Kd 0.58 0.35 0.13
+Ks 0 0 0
+Ka 0 0 0
+illum 1
